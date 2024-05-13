@@ -1,0 +1,3 @@
+Electric Vehicle (EV) Car Market Segmentation Readme
+
+This readme outlines our approach to segmenting the EV car market based on two key factors: efficiency and pricing relative to rapid charging capabilities. We utilized data from industry reports and EV manufacturers to categorize cars based on their efficiency ratings and pricing tiers relative to rapid charging technology. Efficiency segments target consumers seeking environmentally friendly and cost-effective options, while pricing segments cater to those willing to pay a premium for the convenience of rapid charging. Our analysis aims to provide actionable insights for EV manufacturers and industry stakeholders to better understand and target specific consumer preferences within the market.
